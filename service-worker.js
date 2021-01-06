@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/BenjaminWalkerBond/react-lights-out/precache-manifest.02554b678ccd18587dfcff51e7e6f239.js"
+  "/benjaminwalkerbond/react-lights-out/precache-manifest.6ae69ec40e1fee2411871fbb12ed8916.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/BenjaminWalkerBond/react-lights-out/index.html", {
+workbox.routing.registerNavigationRoute("/benjaminwalkerbond/react-lights-out/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
