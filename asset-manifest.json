@@ -1,13 +1,13 @@
 {
-  "main.css": "/benjaminwalkerbond/react-lights-out/static/css/main.7c010576.chunk.css",
-  "main.js": "/benjaminwalkerbond/react-lights-out/static/js/main.5f9e8e7d.chunk.js",
-  "main.js.map": "/benjaminwalkerbond/react-lights-out/static/js/main.5f9e8e7d.chunk.js.map",
-  "static/js/1.a989bfac.chunk.js": "/benjaminwalkerbond/react-lights-out/static/js/1.a989bfac.chunk.js",
-  "static/js/1.a989bfac.chunk.js.map": "/benjaminwalkerbond/react-lights-out/static/js/1.a989bfac.chunk.js.map",
-  "runtime~main.js": "/benjaminwalkerbond/react-lights-out/static/js/runtime~main.6d9e5231.js",
-  "runtime~main.js.map": "/benjaminwalkerbond/react-lights-out/static/js/runtime~main.6d9e5231.js.map",
-  "static/css/main.7c010576.chunk.css.map": "/benjaminwalkerbond/react-lights-out/static/css/main.7c010576.chunk.css.map",
-  "index.html": "/benjaminwalkerbond/react-lights-out/index.html",
-  "precache-manifest.6ae69ec40e1fee2411871fbb12ed8916.js": "/benjaminwalkerbond/react-lights-out/precache-manifest.6ae69ec40e1fee2411871fbb12ed8916.js",
-  "service-worker.js": "/benjaminwalkerbond/react-lights-out/service-worker.js"
+  "main.css": "/react-lights-out/static/css/main.7c010576.chunk.css",
+  "main.js": "/react-lights-out/static/js/main.6b31f158.chunk.js",
+  "main.js.map": "/react-lights-out/static/js/main.6b31f158.chunk.js.map",
+  "static/js/1.a989bfac.chunk.js": "/react-lights-out/static/js/1.a989bfac.chunk.js",
+  "static/js/1.a989bfac.chunk.js.map": "/react-lights-out/static/js/1.a989bfac.chunk.js.map",
+  "runtime~main.js": "/react-lights-out/static/js/runtime~main.1764a79b.js",
+  "runtime~main.js.map": "/react-lights-out/static/js/runtime~main.1764a79b.js.map",
+  "static/css/main.7c010576.chunk.css.map": "/react-lights-out/static/css/main.7c010576.chunk.css.map",
+  "index.html": "/react-lights-out/index.html",
+  "precache-manifest.de99a37c20ccc592b6bdf6aad078cb5b.js": "/react-lights-out/precache-manifest.de99a37c20ccc592b6bdf6aad078cb5b.js",
+  "service-worker.js": "/react-lights-out/service-worker.js"
 }
