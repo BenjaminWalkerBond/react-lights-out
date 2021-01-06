@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-lights-out-starter/static/css/main.7c010576.chunk.css",
-  "main.js": "/react-lights-out-starter/static/js/main.ae6f0276.chunk.js",
-  "main.js.map": "/react-lights-out-starter/static/js/main.ae6f0276.chunk.js.map",
+  "main.css": "/react-lights-out-starter/static/css/main.f6d9fd1d.chunk.css",
+  "main.js": "/react-lights-out-starter/static/js/main.cd8fe839.chunk.js",
+  "main.js.map": "/react-lights-out-starter/static/js/main.cd8fe839.chunk.js.map",
   "static/js/1.a989bfac.chunk.js": "/react-lights-out-starter/static/js/1.a989bfac.chunk.js",
   "static/js/1.a989bfac.chunk.js.map": "/react-lights-out-starter/static/js/1.a989bfac.chunk.js.map",
   "runtime~main.js": "/react-lights-out-starter/static/js/runtime~main.822e84c2.js",
   "runtime~main.js.map": "/react-lights-out-starter/static/js/runtime~main.822e84c2.js.map",
-  "static/css/main.7c010576.chunk.css.map": "/react-lights-out-starter/static/css/main.7c010576.chunk.css.map",
+  "static/css/main.f6d9fd1d.chunk.css.map": "/react-lights-out-starter/static/css/main.f6d9fd1d.chunk.css.map",
   "index.html": "/react-lights-out-starter/index.html",
-  "precache-manifest.c37be234f9e1103876b19424dda42ed6.js": "/react-lights-out-starter/precache-manifest.c37be234f9e1103876b19424dda42ed6.js",
+  "precache-manifest.c0a92e66f60ae7e2fa1dcdf69eea846c.js": "/react-lights-out-starter/precache-manifest.c0a92e66f60ae7e2fa1dcdf69eea846c.js",
   "service-worker.js": "/react-lights-out-starter/service-worker.js"
 }
